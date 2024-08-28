@@ -59,3 +59,5 @@ El componente debe verse correctamente en los siguientes viewports:
 - [Guía de CSS](https://www.w3schools.com/css/)
 - [Guía de JavaScript](https://www.w3schools.com/js/)
 - [Guía de diseño responsive](https://www.w3schools.com/html/html_responsive.asp)
+
+Deployed https://dsaw-2024-2.github.io/parcial-i-Juanpena1/
